@@ -1,0 +1,8 @@
+@media screen and (max-width: calc(767px + 17px)) {
+    .yandex-links{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        min-height: 248px;
+    }
+}
