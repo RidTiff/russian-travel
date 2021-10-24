@@ -4,7 +4,7 @@
     margin: 0 auto;
 }
 
-@media screen and (max-width: calc(1279px + 17px)) {
+@media screen and (max-width: 1279px) {
     .cover{
         width: 100%;
         margin: 0;

@@ -5,21 +5,21 @@
     padding: 0;
 }
 
-@media screen and (max-width: calc(1279px + 17px)) {
+@media screen and (max-width: 1279px) {
     .place__image{
         width: 440px;
         height: 440px;
     }
 }
 
-@media screen and (max-width: calc(1023px + 17px)) {
+@media screen and (max-width: 1023px) {
     .place__image{
         width: 340px;
         height: 340px;
     }
 }
 
-@media screen and (max-width: calc(767px + 17px)) {
+@media screen and (max-width: 767px) {
     .place__image{
         width: 320px;
         height: 320px;

@@ -7,14 +7,14 @@
     margin: 0 auto;
 }
 
-@media screen and (max-width: calc(1279px + 17px)) {
+@media screen and (max-width: 1279px) {
     .photo-grid{
         gap: 14px;
         grid-template-columns: repeat(3, 1fr);
     }
 }
 
-@media screen and (max-width: calc(1023px + 17px)) {
+@media screen and (max-width: 1023px) {
     .photo-grid{
         width: calc(100% - 24px*2);
         gap: 16px;
@@ -22,7 +22,7 @@
     }
 }
 
-@media screen and (max-width: calc(767px + 17px)) {
+@media screen and (max-width: 767px) {
     .photo-grid{
         width: calc(100% - 16px*2);
         gap: 12px 0;
